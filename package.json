@@ -12,7 +12,6 @@
             "blackberry10",
             "wp7",
             "wp8",
-            "windows8",
             "windows",
             "browser"
         ]
@@ -36,7 +35,6 @@
         "cordova-blackberry",
         "cordova-wp8",
         "cordova-windows",
-        "cordova-windows8",
         "cordova-browser"
     ],
     "engines": [],
