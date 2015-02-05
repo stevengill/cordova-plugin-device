@@ -22,7 +22,7 @@
         "type": "git",
         "url": "https://git-wip-us.apache.org/repos/asf/cordova-plugin-device.git"
     },
-    "issue": "https://issues.apache.org/jira/browse/CB/component/12320648",
+    "bugs": "https://issues.apache.org/jira/browse/CB/component/12320648",
     "keywords": [
         "cordova",
         "device",
